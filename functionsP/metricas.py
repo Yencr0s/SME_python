@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-from functions.graficos import plot_roc_curve
+from functionsP.graficos import plot_roc_curve
 
 #para quitar los future warnings de numpy y pandas
 import warnings

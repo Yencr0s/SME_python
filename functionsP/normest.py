@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import copy
-from functions.metricas import *
+from functionsP.metricas import *
 
 '''
 Funcion para normalizar un vector

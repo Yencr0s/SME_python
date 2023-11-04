@@ -3,9 +3,9 @@ import pandas as pd
 import itertools
 import matplotlib.pyplot as plt
 import seaborn as sn
-from functions.metricas import *
-from functions.filtrado import *
-from functions.graficos import *
+from functionsP.metricas import *
+from functionsP.filtrado import *
+from functionsP.graficos import *
 
 '''
 Funcion que calcula la correlacion de dos vectores.

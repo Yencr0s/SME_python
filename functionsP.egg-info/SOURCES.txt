@@ -1,0 +1,14 @@
+LICENSE.txt
+README.txt
+setup.py
+functionsP/__init__.py
+functionsP/corr.py
+functionsP/discretizacion.py
+functionsP/filtrado.py
+functionsP/graficos.py
+functionsP/metricas.py
+functionsP/normest.py
+functionsP.egg-info/PKG-INFO
+functionsP.egg-info/SOURCES.txt
+functionsP.egg-info/dependency_links.txt
+functionsP.egg-info/top_level.txt
